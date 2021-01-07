@@ -1,6 +1,25 @@
-{
-	"quotes":[{
-		"quote":"A problem is a chance for you to do your best.",
-		"author":"Duke Ellington"
-	}]
+{"quotes":[
+	{"quote":"A problem is a chance for you to do your best.","author":"Duke Ellington"}, 
+	{"quote":"Hope is important because it can make the present moment less difficult to bear.If we believe that tomorrow will be better, we can bear a hardship today.","author":"Thich Nhat Hanh "},
+	{"quote":"Never let your head hang down. Never give up and sit down and grieve. Find another way. And don’t pray when it rains if you don’t pray when the sun shines.","author":"Leroy Satchel Paige"},
+	{"quote":"It is only in our darkest hours that we may discover the true strength of the brilliant light within ourselves that can never, ever, be dimmed.","author":"Doe Zantamata"},
+	{"quote":"Learn how to be happy with what you have while you pursue all that you want.","author":"Jim Rohn"},
+	{"quote":"I will love the light for it shows me the way, yet I will endure the darkness for it shows me the stars.","author":"Og Mandino"},
+	{"quote":"Next to trying and winning, the best thing is trying and failing.","author":"Elie Weisel"},
+	{"quote":"Have great hopes and dare to go all out for them. Have great dreams and dare to live them. Have tremendous expectations and believe in them.","author":"Norman Vincent Peale"},
+	{"quote":"We should always pray for help, but we should always listen for inspiration and impression to proceed in ways different from those we may have thought of.","author":"John H. Groberg"},
+	{"quote":"The friend in my adversity I shall always cherish most. I can better trust those who helped to relieve the gloom of my dark hours than those who are so ready to enjoy with me the sunshine of my prosperity.","author":"Ulysses S. Grant"},
+	{"quote":"He knows not his own strength who hath not met adversity.","author":"William Samuel Johnson"},
+	{"quote":"The gem cannot be polished without friction, nor man perfected without trials.","author":"Chinese Proverb"},
+	{"quote":"Prosperity is a great teacher adversity is a greater. Possession pampers the mind privation trains and strengthens it.","author":"William Hazlitt"},
+	{"quote":"The greatest glory in living lies not in never failing, but in rising every time we fail.","author":"Nelson Mandela"},
+	{"quote":"Every adversity, every failure and every heartache carries with it the seed of an equivalent or a greater benefit.","author":"Napoleon Hill"},
+	{"quote":"The bravest sight in the world is to see a great man struggling against adversity.","author":"Seneca"},
+	{"quote":"Tough times never last, but tough people do.","author":"Robert Schuller"},
+	{"quote":"In times of great stress or adversity, it’s always best to keep busy, to plow your anger and your energy into something positive.","author":"Lee Iacocca"},
+	{"quote":"Never give in. Never, never, never.","author":"Winston Churchill"},
+	{"quote":"Prosperity is not without many fears and disasters; and adversity is not without comforts and hopes.","author":"Francis Bacon"},
+	{"quote":"We have nothing to fear, but fear itself.","author":"Franklin D. Roosevelt"},
+	{"quote":"If you don’t like something change it; if you can’t change it, change the way you think about it.","author":"Mary Engelbreit"}
+	]
 }
